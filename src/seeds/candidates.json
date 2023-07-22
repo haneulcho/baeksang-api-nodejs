@@ -1,0 +1,256 @@
+[
+  {
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160214_93998.jpg",
+      "award_name": "대상",
+      "title": "박은빈"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155413_08552.jpg",
+        "id": "BAE131910UHZGNC",
+        "award_name": "작품상(드라마)",
+        "sub_title": "",
+        "title": "더 글로리"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155500_06647.jpg",
+        "id": "BAE509561CQuGdv",
+        "award_name": "작품상(예능)",
+        "sub_title": "",
+        "title": "피식대학-피식쇼"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155537_08997.jpg",
+        "id": "BAE345812XWxqra",
+        "award_name": "작품상(교양)",
+        "sub_title": "",
+        "title": "어른 김장하"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155606_48477.jpg",
+        "id": "BAE730452YOWwRQ",
+        "award_name": "연출상",
+        "sub_title": "이상한 변호사 우영우",
+        "title": "유인식"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155337_17675.jpg",
+        "id": "BAE213717RPvmoC",
+        "award_name": "극본상",
+        "sub_title": "나의 해방일지",
+        "title": "박해영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05155820_73283.jpg",
+        "id": "BAE587186VHxgYh",
+        "award_name": "예술상",
+        "sub_title": "작은 아씨들/미술",
+        "title": "류성희"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160028_85101.jpg",
+        "id": "BAE983190UCbOti",
+        "award_name": "최우수연기상(남)",
+        "sub_title": "재벌집 막내아들",
+        "title": "이성민"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160214_71488.jpg",
+        "id": "BAE453221zuEbel",
+        "award_name": "최우수연기상(여)",
+        "sub_title": "더 글로리",
+        "title": "송혜교"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160423_48733.jpg",
+        "id": "BAE337362zTaiHP",
+        "award_name": "조연상(남)",
+        "sub_title": "수리남",
+        "title": "조우진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160732_60812.jpg",
+        "id": "BAE590087CApiff",
+        "award_name": "조연상(여)",
+        "sub_title": "더 글로리",
+        "title": "임지연"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05160914_09747.jpg",
+        "id": "BAE022253hemKWu",
+        "award_name": "신인연기상(남)",
+        "sub_title": "슈룹",
+        "title": "문상민"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161100_57371.jpg",
+        "id": "BAE622396XaTVxI",
+        "award_name": "신인연기상(여)",
+        "sub_title": "일타 스캔들",
+        "title": "노윤서"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161214_80521.jpg",
+        "id": "BAE114012ZOXtMO",
+        "award_name": "예능상(남)",
+        "sub_title": "",
+        "title": "김종국"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161338_36098.jpg",
+        "id": "BAE145308RWXtbn",
+        "award_name": "예능상(여)",
+        "sub_title": "",
+        "title": "이은지"
+      }
+    ]
+  },
+  {
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161913_76287.jpg",
+      "award_name": "대상",
+      "title": "헤어질 결심"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161913_64989.jpg",
+        "id": "BAE360728FsyOva",
+        "award_name": "작품상",
+        "sub_title": "",
+        "title": "올빼미"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162101_86329.jpg",
+        "id": "BAE902883saBiIl",
+        "award_name": "감독상",
+        "sub_title": "헤어질 결심",
+        "title": "박찬욱"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162239_61160.jpg",
+        "id": "BAE679074lDtKAQ",
+        "award_name": "신인 감독상",
+        "sub_title": "올빼미",
+        "title": "안태진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162514_81237.jpg",
+        "id": "BAE636020uvovqF",
+        "award_name": "최우수 연기상(남)",
+        "sub_title": "올빼미",
+        "title": "류준열"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162633_62964.jpg",
+        "id": "BAE851332faNGiD",
+        "award_name": "최우수 연기상(여)",
+        "sub_title": "헤어질 결심",
+        "title": "탕웨이"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162757_56365.jpg",
+        "id": "BAE963357RwlICK",
+        "award_name": "조연상(남)",
+        "sub_title": "한산: 용의 출현",
+        "title": "변요한"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05162926_87527.jpg",
+        "id": "BAE476233vIvqvr",
+        "award_name": "조연상(여)",
+        "sub_title": "육사오",
+        "title": "박세완"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163100_54504.jpg",
+        "id": "BAE012388tMEaJV",
+        "award_name": "신인연기상(남)",
+        "sub_title": "크리스마스 캐럴",
+        "title": "박진영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163225_73619.jpg",
+        "id": "BAE226257bIJlAy",
+        "award_name": "신인연기상(여)",
+        "sub_title": "다음 소희",
+        "title": "김시은"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163438_56201.jpg",
+        "id": "BAE637118uOfXef",
+        "award_name": "각본상(시나리오상)",
+        "sub_title": "다음 소희",
+        "title": "정주리"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163618_60478.jpg",
+        "id": "BAE429290wpGZAb",
+        "award_name": "예술상",
+        "sub_title": "헌트/촬영",
+        "title": "이모개"
+      }
+    ]
+  },
+  {
+    "division": "play",
+    "division_name": "연극부문",
+    "has_sector_winner": true,
+    "winner": {
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05170515_18892.jpg",
+      "award_name": "백상연극상",
+      "title": "작품/당선자 없음"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/07094750_24762.jpg",
+        "id": "BAE419623VwFwux",
+        "award_name": "젊은연극상",
+        "sub_title": "조금 쓸쓸한 독백과 언제나 다정한 노래들",
+        "title": "극단/지금아카이브 "
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05170927_83834.jpg",
+        "id": "BAE699068TZNrVf",
+        "award_name": "연기상",
+        "sub_title": "틴에이지 딕",
+        "title": "하지성 "
+      }
+    ]
+  },
+  {
+    "division": "special",
+    "division_name": "특별상",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163100_54504.jpg",
+        "id": "BAE720945EKfDkj",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "박진영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05163225_95227.jpg",
+        "id": "BAE365916pHvPxp",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "아이유"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2023/04/05161913_06841.jpg",
+        "id": "BAE024932lgAjRO",
+        "award_name": "GUCCI IMPACT AWARD",
+        "sub_title": "",
+        "title": "다음 소희"
+      }
+    ]
+  }
+]

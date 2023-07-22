@@ -1,0 +1,147 @@
+[{
+		"division": "tv",
+		"code": "T01",
+		"name": "드라마 작품상"
+	},
+	{
+		"division": "tv",
+		"code": "T02",
+		"name": "예능 작품상"
+	},
+	{
+		"division": "tv",
+		"code": "T03",
+		"name": "교양 작품상"
+	},
+	{
+		"division": "tv",
+		"code": "T04",
+		"name": "연출상"
+	},
+	{
+		"division": "tv",
+		"code": "T05",
+		"name": "극본상"
+	},
+	{
+		"division": "tv",
+		"code": "T06",
+		"name": "예술상"
+	},
+	{
+		"division": "tv",
+		"code": "T07",
+		"name": "남자 최우수 연기상"
+	},
+	{
+		"division": "tv",
+		"code": "T08",
+		"name": "여자 최우수 연기상"
+	},
+	{
+		"division": "tv",
+		"code": "T09",
+		"name": "남자 조연상"
+	},
+	{
+		"division": "tv",
+		"code": "T10",
+		"name": "여자 조연상"
+	},
+	{
+		"division": "tv",
+		"code": "T11",
+		"name": "남자 신인 연기상"
+	},
+	{
+		"division": "tv",
+		"code": "T12",
+		"name": "여자 신인 연기상"
+	},
+	{
+		"division": "tv",
+		"code": "T13",
+		"name": "남자 TV예능상"
+	},
+	{
+		"division": "tv",
+		"code": "T14",
+		"name": "여자 TV예능상"
+	},
+	{
+		"division": "play",
+		"code": "P01",
+		"name": "백상 연극상"
+	},
+	{
+		"division": "play",
+		"code": "P02",
+		"name": "젊은 연극상"
+	},
+	{
+		"division": "play",
+		"code": "P03",
+		"name": "남자 최우수 연기상"
+	},
+	{
+		"division": "play",
+		"code": "P04",
+		"name": "여자 최우수 연기상"
+	},
+
+	{
+		"division": "movie",
+		"code": "M01",
+		"name": "작품상"
+	},
+	{
+		"division": "movie",
+		"code": "M02",
+		"name": "감독상"
+	},
+	{
+		"division": "movie",
+		"code": "M03",
+		"name": "시나리오상"
+	},
+	{
+		"division": "movie",
+		"code": "M04",
+		"name": "예술상"
+	},
+	{
+		"division": "movie",
+		"code": "M05",
+		"name": "신인 감독상"
+	},
+	{
+		"division": "movie",
+		"code": "M06",
+		"name": "남자 최우수 연기상"
+	},
+	{
+		"division": "movie",
+		"code": "M07",
+		"name": "여자 최우수 연기상"
+	},
+	{
+		"division": "movie",
+		"code": "M08",
+		"name": "남자 조연상"
+	},
+	{
+		"division": "movie",
+		"code": "M09",
+		"name": "여자 조연상"
+	},
+	{
+		"division": "movie",
+		"code": "M10",
+		"name": "남자 신인 연기상"
+	},
+	{
+		"division": "movie",
+		"code": "M11",
+		"name": "여자 신인 연기상"
+	}
+]

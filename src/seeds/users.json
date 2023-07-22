@@ -1,0 +1,13 @@
+[{
+		"email": "test@test.com",
+		"name": "테스트계정",
+		"password": "$2a$10$UivZpaJ72aMCRLDIjnEXje1PzHLOWYcUeAuPeZQ4If1vbCdJgRO/e",
+		"role": "user"
+	},
+	{
+		"email": "admin@admin.com",
+		"name": "하늘입니다",
+		"password": "$2a$10$UivZpaJ72aMCRLDIjnEXje1PzHLOWYcUeAuPeZQ4If1vbCdJgRO/e",
+		"role": "admin"
+	}
+]

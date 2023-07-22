@@ -1,0 +1,1128 @@
+[
+  {
+    "awards_no": "58",
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/01.jpg",
+      "award_name": "TV부문 대상",
+      "title": "오징어 게임"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/02.jpg",
+        "award_name": "작품상(드라마)",
+        "sub_title": "넷플릭스",
+        "title": "D.P"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/03.jpg",
+        "award_name": "작품상(예능)",
+        "sub_title": "Mnet",
+        "title": "스트릿 우먼 파이터"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/04.jpg",
+        "award_name": "작품상(교양)",
+        "sub_title": "KBS 1TV",
+        "title": "다큐인사이트 국가대표"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/05.jpg",
+        "award_name": "연출상",
+        "sub_title": "오징어 게임",
+        "title": "황동혁"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/06.jpg",
+        "award_name": "극본상",
+        "sub_title": "소년심판",
+        "title": "김민석"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/07.jpg",
+        "award_name": "예술상",
+        "sub_title": "오징어 게임",
+        "title": "정재일/음악"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/08.jpg",
+        "award_name": "최우수연기상(남)",
+        "sub_title": "옷소매 붉은 끝동",
+        "title": "이준호"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/09.jpg",
+        "award_name": "최우수연기상(여)",
+        "sub_title": "스물다섯 스물하나",
+        "title": "김태리"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/10.jpg",
+        "award_name": "조연상(남)",
+        "sub_title": "D.P",
+        "title": "조현철"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/11.jpg",
+        "award_name": "조연상(여)",
+        "sub_title": "지옥",
+        "title": "김신록"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/12.jpg",
+        "award_name": "신인연기상(남)",
+        "sub_title": "D.P",
+        "title": "구교환"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/13.jpg",
+        "award_name": "신인연기상(여)",
+        "sub_title": "구경이",
+        "title": "김혜준"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/14.jpg",
+        "award_name": "예능상(남)",
+        "sub_title": "",
+        "title": "이용진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/tv/15.jpg",
+        "award_name": "예능상(여)",
+        "sub_title": "",
+        "title": "주현영"
+      }
+    ]
+  },
+  {
+    "awards_no": "58",
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "모가디슈",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/01.jpg",
+      "award_name": "영화부문 대상",
+      "title": "류승완"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/02.jpg",
+        "award_name": "작품상",
+        "sub_title": "",
+        "title": "모가디슈"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/03.jpg",
+        "award_name": "감독상",
+        "sub_title": "킹메이커",
+        "title": "변성현"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/04.jpg",
+        "award_name": "신인 감독상",
+        "sub_title": "장르만 로맨스",
+        "title": "조은지"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/05.jpg",
+        "award_name": "최우수 연기상(남)",
+        "sub_title": "킹메이커",
+        "title": "설경구"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/06.jpg",
+        "award_name": "최우수 연기상(여)",
+        "sub_title": "당신얼굴 앞에서",
+        "title": "이혜영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/07.jpg",
+        "award_name": "조연상(남)",
+        "sub_title": "킹메이커",
+        "title": "조우진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/08.jpg",
+        "award_name": "조연상(여)",
+        "sub_title": "기적",
+        "title": "이수경"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/09.jpg",
+        "award_name": "신인연기상(남)",
+        "sub_title": "뜨거운 피",
+        "title": "이홍내"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/10.jpg",
+        "award_name": "신인연기상(여)",
+        "sub_title": "어른들은 몰라요",
+        "title": "이유미"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/11.jpg",
+        "award_name": "각본상(시나리오상)",
+        "sub_title": "연애 빠진 로맨스",
+        "title": "정가영, 왕혜지"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/movie/12.jpg",
+        "award_name": "예술상",
+        "sub_title": "모가디슈",
+        "title": "최영환(촬영)"
+      }
+    ]
+  },
+  {
+    "awards_no": "58",
+    "division": "play",
+    "division_name": "연극부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "극단/ 작당모의",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/theater/01.jpg",
+      "award_name": "백상연극상",
+      "title": "터키행진곡"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/theater/02.jpg",
+        "award_name": "젊은연극상",
+        "sub_title": "이것은 어쩌면 실패담, 원래 제목은 인투디언노운",
+        "title": "연출/ 김미란"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/theater/03.jpg",
+        "award_name": "연기상(여자)",
+        "sub_title": "홍평국전",
+        "title": "황순미"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/theater/04.jpg",
+        "award_name": "연기상(남자)",
+        "sub_title": "붉은 낙엽",
+        "title": "박완규"
+      }
+    ]
+  },
+  {
+    "awards_no": "58",
+    "division": "special",
+    "division_name": "특별상 수상자",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/special/01.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "이준호"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2022/awards/special/02.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "김태리"
+      }
+    ]
+  },
+  {
+    "awards_no": "57",
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/01.jpg",
+      "award_name": "TV부문 대상",
+      "title": "유재석"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/02.jpg",
+        "award_name": "드라마 작품상",
+        "sub_title": "JTBC",
+        "title": "괴물"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/03.jpg",
+        "award_name": "예능 작품상",
+        "sub_title": "MBC",
+        "title": "놀면 뭐하니?"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/04.jpg",
+        "award_name": "교양 작품상",
+        "sub_title": "KBS 1TV",
+        "title": "아카이브 프로젝트 - 모던코리아2"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/05.jpg",
+        "award_name": "연출상",
+        "sub_title": "악의 꽃",
+        "title": "김철규"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/06.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "괴물",
+        "title": "신하균"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/07.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "펜트하우스",
+        "title": "김소연"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/08.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "사이코지만 괜찮아",
+        "title": "오정세"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/09.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "경이로운 소문",
+        "title": "염혜란"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/10.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "18어게인",
+        "title": "이도현"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/11.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "인간수업",
+        "title": "박주현"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/12.jpg",
+        "award_name": "남자 예능상",
+        "sub_title": "",
+        "title": "이승기"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/13.jpg",
+        "award_name": "여자 예능상",
+        "sub_title": "",
+        "title": "장도연"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/14.jpg",
+        "award_name": "극본상",
+        "sub_title": "괴물",
+        "title": "김수진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/tv/15.jpg",
+        "award_name": "예술상",
+        "sub_title": "사이코지만 괜찮아",
+        "title": "조상경/의상"
+      }
+    ]
+  },
+  {
+    "awards_no": "57",
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "자산어보",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/01.jpg",
+      "award_name": "영화부문 대상",
+      "title": "이준익"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/02.jpg",
+        "award_name": "작품상",
+        "sub_title": "",
+        "title": "삼진그룹 영어토익반"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/03.jpg",
+        "award_name": "감독상",
+        "sub_title": "소리도 없이",
+        "title": "홍의정"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/04.jpg",
+        "award_name": "신인 감독상",
+        "sub_title": "남매의 여름밤",
+        "title": "윤단비"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/05.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "소리도 없이",
+        "title": "유아인"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/06.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "콜",
+        "title": "전종서"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/07.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "다만 악에서 구하소서",
+        "title": "박정민"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/08.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "세자매",
+        "title": "김선영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/09.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "결백",
+        "title": "홍경"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/10.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "남매의 여름밤",
+        "title": "최정운"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/11.jpg",
+        "award_name": "시나리오상",
+        "sub_title": "내가 죽던 날",
+        "title": "박지완"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/movie/12.jpg",
+        "award_name": "예술상",
+        "sub_title": "승리호",
+        "title": "정성진·정철민/VFX"
+      }
+    ]
+  },
+  {
+    "awards_no": "57",
+    "division": "play",
+    "division_name": "연극부문",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/drama/01.jpg",
+        "award_name": "백상연극상",
+        "sub_title": "극단 여기는 당연히, 극장",
+        "title": "우리는 농담이(아니)야/작품"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/drama/02.jpg",
+        "award_name": "젊은연극상",
+        "sub_title": "2021 대학수학능력시험 통합사회탐구 영역",
+        "title": "정진새/작,연출"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/drama/03.jpg",
+        "award_name": "남자 연기상",
+        "sub_title": "우리는 농담이(아니)야",
+        "title": "최순진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/drama/04.jpg",
+        "award_name": "여자 연기상",
+        "sub_title": "햄릿",
+        "title": "이봉련"
+      }
+    ]
+  },
+  {
+    "awards_no": "57",
+    "division": "special",
+    "division_name": "특별상",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/special/01.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "김선호"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2021/awards/special/02.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "서예지"
+      }
+    ]
+  },
+  {
+    "awards_no": "56",
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/01.jpg",
+      "award_name": "TV부문 대상",
+      "title": "동백꽃 필 무렵"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/02.jpg",
+        "award_name": "드라마 작품상",
+        "sub_title": "SBS",
+        "title": "스토브리그"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/03.jpg",
+        "award_name": "예능 작품상",
+        "sub_title": "TV조선",
+        "title": "내일은 미스터트롯"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/04.jpg",
+        "award_name": "교양 작품상",
+        "sub_title": "EBS",
+        "title": "자이언트펭TV"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/05.jpg",
+        "award_name": "연출상",
+        "sub_title": "부부의 세계",
+        "title": "모완일"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/06.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "동백꽃 필 무렵",
+        "title": "강하늘"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/07.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "부부의 세계",
+        "title": "김희애"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/08.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "동백꽃 필 무렵",
+        "title": "오정세"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/09.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "사랑의 불시착",
+        "title": "김선영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/10.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "낭만닥터 김사부2",
+        "title": "안효섭"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/11.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "이태원 클라쓰",
+        "title": "김다미"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/12.jpg",
+        "award_name": "남자 예능상",
+        "sub_title": "놀면 뭐하니?",
+        "title": "유재석"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/13.jpg",
+        "award_name": "여자 예능상",
+        "sub_title": "나 혼자 산다",
+        "title": "박나래"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/14.jpg",
+        "award_name": "극본상",
+        "sub_title": "동백꽃 필 무렵",
+        "title": "임상춘"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/tv/15.jpg",
+        "award_name": "예술상",
+        "sub_title": "대탈출3/미술",
+        "title": "장연옥"
+      }
+    ]
+  },
+  {
+    "awards_no": "56",
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "기생충",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/01.jpg",
+      "award_name": "영화부문 대상",
+      "title": "봉준호"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/02.jpg",
+        "award_name": "작품상",
+        "sub_title": "",
+        "title": "기생충"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/03.jpg",
+        "award_name": "감독상",
+        "sub_title": "벌새",
+        "title": "김보라"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/04.jpg",
+        "award_name": "신인 감독상",
+        "sub_title": "82년생 김지영",
+        "title": "김도영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/05.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "남산의 부장들",
+        "title": "이병헌"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/06.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "생일",
+        "title": "전도연"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/07.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "나의 특별한 형제",
+        "title": "이광수"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/08.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "벌새",
+        "title": "김새벽"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/09.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "기생충",
+        "title": "박명훈"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/10.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "찬실이는 복도 많지",
+        "title": "강말금"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/11.jpg",
+        "award_name": "시나리오상",
+        "sub_title": "엑시트",
+        "title": "이상근"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/movie/12.jpg",
+        "award_name": "예술상",
+        "sub_title": "남산의 부장들/분장",
+        "title": "김서희"
+      }
+    ]
+  },
+  {
+    "awards_no": "56",
+    "division": "play",
+    "division_name": "연극부문",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/drama/01.jpg",
+        "award_name": "백상연극상",
+        "sub_title": "그을린 사랑/연출",
+        "title": "신유청"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/drama/02.jpg",
+        "award_name": "젊은연극상",
+        "sub_title": "사랑 및 우정에서의 차별금지 및 권리구제에 관한 법률/극단",
+        "title": "0set 프로젝트"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/drama/03.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "와이프(WIFE)",
+        "title": "백석광"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/drama/04.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "로테르담",
+        "title": "김정"
+      }
+    ]
+  },
+  {
+    "awards_no": "56",
+    "division": "special",
+    "division_name": "특별상",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/special/01.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "현빈"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/special/02.jpg",
+        "award_name": "틱톡 인기상",
+        "sub_title": "",
+        "title": "손예진"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2020/awards/special/03.jpg",
+        "award_name": "바자 아이콘상",
+        "sub_title": "",
+        "title": "서지혜"
+      }
+    ]
+  },
+  {
+    "awards_no": "55",
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "눈이 부시게",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/1.png",
+      "award_name": "TV부문 대상",
+      "title": "김혜자"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/2.png",
+        "award_name": "드라마 작품상",
+        "sub_title": "tvN",
+        "title": "나의 아저씨"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/3.png",
+        "award_name": "예능 작품상",
+        "sub_title": "MBC",
+        "title": "전지적 참견 시점"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/4.png",
+        "award_name": "교양 작품상",
+        "sub_title": "KBS 1TV",
+        "title": "저널리즘 토크쇼J"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/5.png",
+        "award_name": "연출상",
+        "sub_title": "SKY 캐슬",
+        "title": "조현탁"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/6.png",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "미스터 션샤인",
+        "title": "이병헌"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/7.png",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "SKY 캐슬",
+        "title": "염정아"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/8.png",
+        "award_name": "남자 조연상",
+        "sub_title": "SKY 캐슬",
+        "title": "김병철"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/9.png",
+        "award_name": "여자 조연상",
+        "sub_title": "눈이 부시게",
+        "title": "이정은"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/10.png",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "이리와 안아줘",
+        "title": "장기용"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/11.png",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "SKY 캐슬",
+        "title": "김혜윤"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/12.png",
+        "award_name": "남자 예능상",
+        "sub_title": "나 혼자 산다",
+        "title": "전현무"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/13.png",
+        "award_name": "여자 예능상",
+        "sub_title": "전지적 참견 시점",
+        "title": "이영자"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/14.png",
+        "award_name": "극본상",
+        "sub_title": "나의 아저씨",
+        "title": "박해영"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/tv/15.png",
+        "award_name": "예술상",
+        "sub_title": "VFX-알함브라 궁전의 추억",
+        "title": "박성진"
+      }
+    ]
+  },
+  {
+    "awards_no": "55",
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "증인",
+      "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/1.png",
+      "award_name": "영화부문 대상",
+      "title": "정우성"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/2.png",
+        "award_name": "작품상",
+        "sub_title": "공작",
+        "title": ""
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/3.png",
+        "award_name": "감독상",
+        "sub_title": "스윙키즈",
+        "title": "강형철"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/4.png",
+        "award_name": "신인 감독상",
+        "sub_title": "미쓰백",
+        "title": "이지원"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/5.png",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "공작",
+        "title": "이성민"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/6.png",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "미쓰백",
+        "title": "한지민"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/7.png",
+        "award_name": "남자 조연상",
+        "sub_title": "독전",
+        "title": "김주혁"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/8.png",
+        "award_name": "여자 조연상",
+        "sub_title": "미쓰백",
+        "title": "권소현"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/9.png",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "너의 결혼식",
+        "title": "김영광"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/10.png",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "사바하",
+        "title": "이재인"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/11.png",
+        "award_name": "시나리오상",
+        "sub_title": "암수살인",
+        "title": "곽경택·김태균"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/movie/12.png",
+        "award_name": "예술상",
+        "sub_title": "촬영-버닝",
+        "title": "홍경표"
+      }
+    ]
+  },
+  {
+    "awards_no": "55",
+    "division": "play",
+    "division_name": "연극부문",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/drama/1.png",
+        "award_name": "젊은 연극상",
+        "sub_title": "배우-액트리스원: 국<br>민로봇배우 1호",
+        "title": "성수연"
+      }
+    ]
+  },
+  {
+    "awards_no": "55",
+    "division": "special",
+    "division_name": "특별상",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/special/1.png",
+        "award_name": "V LIVE 인기상",
+        "sub_title": "",
+        "title": "도경수"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/special/2.png",
+        "award_name": "V LIVE 인기상",
+        "sub_title": "",
+        "title": "이지은"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/event-admin/baeksang/2019/awards/special/3.png",
+        "award_name": "바자 아이콘상",
+        "sub_title": "",
+        "title": "김혜수"
+      }
+    ]
+  },
+  {
+    "awards_no": "54",
+    "division": "tv",
+    "division_name": "TV부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "비밀의 숲",
+      "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/05/2018050400174618.jpg",
+      "award_name": "TV부문 대상",
+      "title": "tvN"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032815352984.jpg",
+        "award_name": "드라마 작품상",
+        "sub_title": "tvN",
+        "title": "마더"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032814484623.jpg",
+        "award_name": "예능 작품상",
+        "sub_title": "JTBC",
+        "title": "효리네 민박"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032815423999.jpg",
+        "award_name": "교양 작품상",
+        "sub_title": "KBS",
+        "title": "땐뽀걸즈"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032915504223.jpg",
+        "award_name": "연출상",
+        "sub_title": "JTBC '품위있는 그녀'",
+        "title": "김윤철"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032916580616.jpg",
+        "award_name": "극본상",
+        "sub_title": "tvN '비밀의 숲'",
+        "title": "이수연"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040310164232.jpg",
+        "award_name": "예술상",
+        "sub_title": "KBS '순례'",
+        "title": "최성우 (촬영)"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/20180328110357.2.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "tvN '비밀의 숲'",
+        "title": "조승우"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032811113536.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "JTBC '미스티'",
+        "title": "김남주"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032811242636.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "tvN '슬기로운 감빵생활'",
+        "title": "박호산"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032916514592.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "SBS '키스 먼저 할까요?'",
+        "title": "예지원"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/20180329155728.4.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "SBS '사랑의 온도'",
+        "title": "양세종"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018032916073444.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "tvN '마더'",
+        "title": "허율"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018033009133494.jpg",
+        "award_name": "남자 예능상",
+        "sub_title": "JTBC '아는 형님' / SBS '동상이몽2 너는 내 운명'",
+        "title": "서장훈"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/03/2018033009213931.jpg",
+        "award_name": "여자 예능상",
+        "sub_title": "MBC '전지적 참견 시점' / 컨텐츠랩비보 '판벌려'",
+        "title": "송은이"
+      }
+    ]
+  },
+  {
+    "awards_no": "54",
+    "division": "movie",
+    "division_name": "영화부문",
+    "has_sector_winner": true,
+    "winner": {
+      "sub_title": "",
+      "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/05/2018050400234593.jpg",
+      "award_name": "영화부문 대상",
+      "title": "1987"
+    },
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040316371095.jpg",
+        "award_name": "작품상",
+        "sub_title": "",
+        "title": "남한산성"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040316393535.jpg",
+        "award_name": "감독상",
+        "sub_title": "신과함께-죄와 벌",
+        "title": "김용화"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040316413289.jpg",
+        "award_name": "신인 감독상",
+        "sub_title": "범죄도시",
+        "title": "강윤성"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040615412999.jpg",
+        "award_name": "남자 최우수 연기상",
+        "sub_title": "1987",
+        "title": "김윤석"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040615434117.jpg",
+        "award_name": "여자 최우수 연기상",
+        "sub_title": "아이 캔 스피크",
+        "title": "나문희"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040616362931.jpg",
+        "award_name": "남자 조연상",
+        "sub_title": "1987",
+        "title": "박희순"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040618071942.jpg",
+        "award_name": "여자 조연상",
+        "sub_title": "침묵",
+        "title": "이수경"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040317063538.jpg",
+        "award_name": "남자 신인 연기상",
+        "sub_title": "꿈의 제인",
+        "title": "구교환"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040615460425.jpg",
+        "award_name": "여자 신인 연기상",
+        "sub_title": "박열",
+        "title": "최희서"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040915570020.jpg",
+        "award_name": "시나리오상",
+        "sub_title": "1987",
+        "title": "김경찬"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/04/2018040413294283.jpg",
+        "award_name": "예술상",
+        "sub_title": "신과함께-죄와 벌",
+        "title": "진종현 (시각효과 VFX)"
+      }
+    ]
+  },
+  {
+    "awards_no": "54",
+    "division": "special",
+    "division_name": "특별상",
+    "has_sector_winner": false,
+    "winner": {},
+    "list": [
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/05/2018050323115395.jpg",
+        "award_name": "특별상",
+        "sub_title": "바자 아이콘상",
+        "title": "나나"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/05/2018050400003454.jpg",
+        "award_name": "특별상",
+        "sub_title": "스타센추리 남자 인기상",
+        "title": "정해인"
+      },
+      {
+        "image": "https://fs.jtbc.co.kr/service/undefined/images/2018/05/2018050322361673.jpg",
+        "award_name": "특별상",
+        "sub_title": "스타센추리 여자 인기상",
+        "title": "수지"
+      }
+    ]
+  }
+]
