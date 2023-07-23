@@ -57,7 +57,7 @@ const options = {
       description:
         '백상예술대상 클론코딩을 위한 API 문서입니다. API 문서 제작에는 [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express), [swagger-jsdoc](https://www.npmjs.com/package/swagger-jsdoc) NPM 모듈을 사용했습니다.',
       contact: {
-        email: 'haneulcho@nexon.co.kr',
+        email: 'haneul@3protv.com',
       },
     },
     basePath: '/api',
@@ -70,7 +70,7 @@ const options = {
       },
     },
   },
-  apis: ['./src/routes/*.js'],
+  apis: ['./src/routes/*.js', './routes/*.js'],
 };
 
 const swaggerSpec = swaggerJSDoc(options);
