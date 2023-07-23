@@ -18,6 +18,6 @@ RUN npm run build
 CMD npm run start
 
 # Remove source code from production image
-RUN rm -Rf src
+# RUN rm -Rf src
 
 EXPOSE 3000 

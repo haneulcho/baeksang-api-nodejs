@@ -70,7 +70,7 @@ const options = {
       },
     },
   },
-  apis: ['./src/routes/*.js', './routes/*.js'],
+  apis: [path.join(process.cwd(), '/src/routes/*.js')],
 };
 
 const swaggerSpec = swaggerJSDoc(options);
